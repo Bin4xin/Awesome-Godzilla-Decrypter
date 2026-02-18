@@ -1,3 +1,25 @@
+# **Awesome-Godzilla-Decrypter with source code**
+
+- env
+
+```bash
+$ java -version
+java version "18.0.2.1" 2022-08-18
+Java(TM) SE Runtime Environment (build 18.0.2.1+1-1)
+Java HotSpot(TM) 64-Bit Server VM (build 18.0.2.1+1-1, mixed mode, sharing)
+```
+
+```
+$ uname -a
+Darwin 192.168.124.12 19.6.0 Darwin Kernel Version 19.6.0: Tue Jun 22 19:49:55 PDT 2021; root:xnu-6153.141.35~1/RELEASE_X86_64 x86_64
+```
+
+- demo
+
+![Awesome-Godzilla-Decrypter.png](./static/Awesome-Godzilla-Decrypter.png)
+
+
+---
 **解密哥斯拉所有类型数据:**
 ![image](https://github.com/nocultrue/Deco_Godzilla/assets/84069457/59f73ab5-098f-489b-b0db-492584b87106)
 

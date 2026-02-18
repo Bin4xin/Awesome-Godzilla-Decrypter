@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Awesome-Godzilla-Decrypter:jar">
+    <output-path>$PROJECT_DIR$/target/artifacts/Awesome_Godzilla_Decrypter_jar</output-path>
+    <root id="archive" name="Awesome-Godzilla-Decrypter.jar">
+      <element id="module-output" name="Awesome-Godzilla-Decrypter" />
+    </root>
+  </artifact>
+</component>
